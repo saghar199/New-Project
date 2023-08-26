@@ -1,0 +1,38 @@
+.main {
+    border: 1px solid blue;
+    width: 50%;
+    height: 100px;
+}
+.first-main {
+    border: 1px solid red;
+    height: 30px;
+    margin-top: 3px;
+    width: 50vw;
+}
+.btn-first button {
+    font-size: 2em;
+    width: 40%;
+    border: 1px solid orangered;
+    margin: 5px;
+    padding: 5px;
+}
+.btn-first {
+    border: 1px solid purple;
+    margin: 2px;
+    padding: 2px;
+    width: 50vw;
+
+}
+.par-first p {
+    max-width: 50ch;
+    justify-content: center;
+    color:blue;
+   
+    
+}
+.par-first {
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    justify-content: center;
+}
